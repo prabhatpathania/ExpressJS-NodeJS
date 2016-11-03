@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Building Website with Node and Express",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhatpathania/ExpressJS-NodeJS.git"
+  },
+  "author": "Prabhat Pathania",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabhatpathania/ExpressJS-NodeJS/issues"
+  },
+  "homepage": "https://github.com/prabhatpathania/ExpressJS-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
